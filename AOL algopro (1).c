@@ -39,7 +39,7 @@ int main() {
     char totalFormat[50];
     
     // =============================
-    // Registrasi akun
+    // Registrasi akun TES 123
     // =============================
     printf("====================================\n");
     printf("       REGISTRASI CAR WASH APP\n");
